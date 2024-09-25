@@ -1,3 +1,5 @@
+**Note:** This template is adapted from [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template). The main modification is unifying all setup (`setup.py`, `requirements.txt`, `environment.yaml`) in `pyproject.toml`. See [diff](https://github.com/ashleve/lightning-hydra-template/compare/main...leleogere:lightning-hydra-template:main) to see all modifications.
+
 <div align="center">
 
 # Lightning-Hydra-Template
