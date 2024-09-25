@@ -3,7 +3,7 @@ name = "project-name"
 version = "0.0.1"
 description = "Describe Your Cool Project"
 authors = [
-    { name = "", email = "" }
+    { name = "Author Name", email = "author@e.mail" }
 ]
 urls = { "Homepage" = "https://github.com/user/project" }
 dependencies = [
