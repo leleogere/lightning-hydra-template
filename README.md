@@ -148,8 +148,8 @@ conda activate myenv
 # install pytorch according to instructions
 # https://pytorch.org/get-started/
 
-# install requirements
-pip install -r requirements.txt
+# install project with requirements and dev requirements
+pip install -e .[dev]
 ```
 
 Template contains example with MNIST classification.<br>
