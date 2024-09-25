@@ -26,10 +26,6 @@ dev = [
     "pytest>=7.0.0",
 ]
 
-[project.scripts]
-train_command = "src.train:main"
-eval_command = "src.eval:main"
-
 [tool.black]
 line-length = 100
 target-version = ['py312']
